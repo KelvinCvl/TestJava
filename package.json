@@ -1,0 +1,21 @@
+{
+  "name": "testjava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelvinCvl/TestJava.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KelvinCvl/TestJava/issues"
+  },
+  "homepage": "https://github.com/KelvinCvl/TestJava#readme"
+}
