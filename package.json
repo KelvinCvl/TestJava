@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KelvinCvl/TestJava/issues"
   },
-  "homepage": "https://github.com/KelvinCvl/TestJava#readme"
+  "homepage": "https://github.com/KelvinCvl/TestJava#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
